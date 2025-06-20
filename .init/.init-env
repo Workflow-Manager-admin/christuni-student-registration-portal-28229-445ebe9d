@@ -1,0 +1,6 @@
+Development environment dependencies set up for:
+- Django backend (REST, auth, admin)
+- React frontend (modern, material, routing)
+- Tooling and database connectors for local development and testing.
+All Python/Node.js dependencies present and versions checked against requirements.
+
